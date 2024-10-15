@@ -15,3 +15,5 @@ Alex made a commit on line 12 in conflict branch for an h2 entry, Muli did the s
 a merge that will not involve a conflict between develop and conflict would be where you added some differing content in both
 and merged each. E.g. you added a <p> in one and <h2> in the other
 
+An edit in line 14 in develop merge with a change on conflicts branch made on line 15; no conlficts
+
